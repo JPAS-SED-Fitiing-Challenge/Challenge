@@ -13,6 +13,7 @@ We expect you to give us, as an output:
 
 (b) SDSS galaxies
 The table table_sdss.galaxies.dat  contains the measurements of the JPLUS and JPAS filters on SDSS spectra. The corresponding redshifts to each galaxy is listed in redshift.dat 
+The filters for the SDSS (65 could be measured) are listed in filters.sdss.dat
 
 We have also include the models that we've used to generated the synthetic SFH so you can use the same (remember that we're testing codes not the consequences of using different models, this could be a second step).
 
