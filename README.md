@@ -6,7 +6,7 @@ Find attached 3 tables (total_file_z021.dat; total_file_z050.dat; total_file_z09
 Fluxes units are erg/s cm^2 A and the format is two lines per galaxy, one with 
 the values and the second with the errors . There are measurements in 71 filters (the order 
 is listed in filters.dat).
-We have generated synthetic spectra with different SFH, metallicities, extinction, and signal-to-noise.
+We have generated synthetic spectra with different SFH, metallicities, extinction (using Cardelli et al. 1998), and signal-to-noise.
 We expect you to give us, as an output: 
 
 (1) Mean age and metallicitiy (weighted with light and mass if possible).
